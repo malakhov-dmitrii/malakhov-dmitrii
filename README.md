@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[codewars](https://www.codewars.com/users/Hennessy811/badges/large)
+
 <!--
 **Hennessy811/Hennessy811** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
