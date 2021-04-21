@@ -1,6 +1,5 @@
 # 🖥 Malakhov Dmitriy 📝
 
-![codewars](https://www.codewars.com/users/Hennessy811/badges/small)
 ![Profile views ;)](https://gpvc.arturio.dev/Hennessy811)
 
 🔭 I’m currently working on cities parking system as a Front-end Team-lead. Seasoned hackathon winner (15+🔥 international wins 🥳)
