@@ -1,23 +1,16 @@
 <h1 align="center">Hi 👋, I'm Malakhov Dmitriy</h1>
 <h3 align="center">A passionate frontend developer, team lead, tech enthusiast</h3>
 
-
-![Profile views ;)](https://gpvc.arturio.dev/malakhov-dmitrii)
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=malakhov-dmitrii&label=Profile%20views&color=0e75b6&style=flat" alt="malakhov-dmitrii" /> </p> -->
-
 # 💫About Me :
-💻 I`m currently working at Fonoa - make taxes simpler around the globe
+🐶 My favorite pet-project - [Budget Vision](https://www.budget.vision/landing) and [Noizer.One](https://noizer.one)
 
-🐶 My favorite pet-project - [Noizer.One](https://noizer.one) and [launched first version on PH](https://www.producthunt.com/posts/noizer) (370+ upvotes) so far
-
-🎨 Know everything about UI kits - MUI, AntD, TailwindCSS, custom kits
+🎨 Know everything about UI kits - Shadcn, MUI, AntD, TailwindCSS, custom kits
 
 📰 Have a couple of articles, for example, [Time-series forecasting with JS](https://javascript.plainenglish.io/time-series-forecasting-with-js-9cc327570071?source=user_profile---------1-------------------------------&gi=6a5749d95efc) and [here](https://habr.com/ru/post/562126/) folks translated it in Russian
 
 🥇 Award-winning hackaton participant - 15+ wins in international events
 
 💯 High-rated tutor (4.5 on average from 50+ students) & mentor, JS conference organizer
-
 
 🧠 Intellectual volunteer - help early-stage projects for free
 
