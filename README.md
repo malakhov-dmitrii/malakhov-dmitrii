@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Malakhov Dmitriy</h1>
+<h1 align="center">Hi 👋, I'm Malakhov Dmitrii</h1>
 <h3 align="center">A passionate frontend developer, team lead, tech enthusiast</h3>
 
 # 💫About Me :
